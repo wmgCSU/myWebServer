@@ -1,0 +1,16 @@
+﻿  log.cc
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\log.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(265,5): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(321): message : 查看对正在编译的 类 模板 实例化“sylar::ConfigVar<T,FromStr,ToStr>”的引用
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(280,5): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\log.cc(19,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\log.cc(555,6): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(333,6): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\log.cc(549): message : 查看对正在编译的函数 模板 实例化“std::shared_ptr<sylar::ConfigVar<std::set<sylar::LogDefine,std::less<sylar::LogDefine>,std::allocator<sylar::LogDefine>>,sylar::LexicalCast<std::string,T>,sylar::LexicalCast<T,std::string>>> sylar::Config::Lookup<std::set<sylar::LogDefine,std::less<sylar::LogDefine>,std::allocator<sylar::LogDefine>>>(const std::string &,const T &,const std::string &)”的引用
+          with
+          [
+              T=std::set<sylar::LogDefine,std::less<sylar::LogDefine>,std::allocator<sylar::LogDefine>>
+          ]
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(337,6): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\wmg\Desktop\studyRecently\log1\webServer\config.h(346,5): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+  webServer.vcxproj -> C:\Users\wmg\Desktop\studyRecently\log1\x64\Debug\webServer.exe
